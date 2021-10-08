@@ -1,0 +1,26 @@
+.as-3 {
+  margin-top: 200px;
+  display: flex;
+  justify-content: center;
+}
+
+.as-3__card {
+  background-color: aqua;
+  border-radius: 5px;
+  width: 300px;
+  display: flex;
+  text-align: center;
+  justify-content: flex-start;
+  flex-direction: column;
+}
+
+.as-3__comment {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+}
+
+.as-3__comment-error {
+  background-color: red;
+}
